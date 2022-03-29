@@ -11,4 +11,4 @@
 
 ### Selected Pen - link to your selected pen
 
-[**INSERT THE PEN TITLE HERE**](https://codepen.io)
+[Responsive Parallax Drag-slider With Transparent Letters](https://codepen.io/mrspok407/pen/bwLwvL)
